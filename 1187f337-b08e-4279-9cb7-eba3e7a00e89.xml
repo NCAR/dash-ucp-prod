@@ -75,7 +75,7 @@
                     <gmd:authority>
                         <gmd:CI_Citation>
                             <gmd:title>
-                                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
+                                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry Test</gco:CharacterString>
                             </gmd:title>
                             <gmd:date>
                                 <gmd:CI_Date>
