@@ -57,7 +57,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:Date>2017-10-05</gco:Date>
+        <gco:DateTime>2017-10-05T15:29:25</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -363,8 +363,8 @@
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
                         <gco:CharacterString>netCDF Open Source License
-
-                                                  https://github.com/Unidata/thredds/blob/master/LICENSE.txt</gco:CharacterString>
+          
+                                                            https://github.com/Unidata/thredds/blob/master/LICENSE.txt</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>None</gco:CharacterString>
