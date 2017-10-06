@@ -57,7 +57,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-10-06T15:29:25</gco:DateTime>
+        <gco:DateTime>2017-10-06T16:20:25</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -220,7 +220,7 @@
                                     <gco:CharacterString>USA</gco:CharacterString>
                                     </gmd:country>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>support-thredds@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-thredds@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
@@ -576,7 +576,7 @@
                                     <gco:CharacterString>USA</gco:CharacterString>
                                     </gmd:country>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>support-thredds@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-thredds@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
