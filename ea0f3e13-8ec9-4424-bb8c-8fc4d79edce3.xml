@@ -213,7 +213,7 @@
                                     <gmd:address>
                                     <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>support-python@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
@@ -252,7 +252,7 @@
                                     <gco:CharacterString>USA</gco:CharacterString>
                                     </gmd:country>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>support-python@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
@@ -477,7 +477,7 @@
                                     <gco:CharacterString>USA</gco:CharacterString>
                                     </gmd:country>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>support-python@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
