@@ -342,7 +342,7 @@
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Sean Arms</gco:CharacterString>
+                        <gco:CharacterString>Yuan Ho</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
                         <gco:CharacterString>UCAR/UCP - Unidata</gco:CharacterString>
