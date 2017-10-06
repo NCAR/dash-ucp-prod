@@ -185,10 +185,10 @@
                         </gmd:CI_Date>
                     </gmd:date>
                     <gmd:edition>
-                        <gco:CharacterString>0.5.0</gco:CharacterString>
+                        <gco:CharacterString>0.6.0</gco:CharacterString>
                     </gmd:edition>
                     <gmd:editionDate>
-                        <gco:Date>2017-07-22</gco:Date>
+                        <gco:Date>2017-09-15</gco:Date>
                     </gmd:editionDate>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
@@ -213,7 +213,7 @@
                                     <gmd:address>
                                     <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>rmay@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
@@ -252,7 +252,7 @@
                                     <gco:CharacterString>USA</gco:CharacterString>
                                     </gmd:country>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>rmay@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
@@ -399,7 +399,7 @@
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
                         <gco:CharacterString>MIT License
-        
+
     https://raw.githubusercontent.com/Unidata/siphon/master/LICENSE</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
@@ -463,7 +463,7 @@
                                     <gco:CharacterString>USA</gco:CharacterString>
                                     </gmd:country>
                                     <gmd:electronicMailAddress>
-                                    <gco:CharacterString>rmay@ucar.edu</gco:CharacterString>
+                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                     </gmd:CI_Address>
                                     </gmd:address>
