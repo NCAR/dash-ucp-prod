@@ -57,7 +57,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-10-06T15:29:25</gco:DateTime>
+        <gco:DateTime>2017-10-06T15:30:27</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -173,10 +173,16 @@
                     <gmd:title>
                         <gco:CharacterString>LDM</gco:CharacterString>
                     </gmd:title>
+                    <gmd:alternateTitle>
+                        <gco:CharacterString>Unidata LDM</gco:CharacterString>
+                    </gmd:alternateTitle>
+                    <gmd:alternateTitle>
+                        <gco:CharacterString>Unidata Local Data Manager</gco:CharacterString>
+                    </gmd:alternateTitle>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>1997-01-01</gco:Date>
+                                <gco:Date>1994-01-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode
@@ -188,7 +194,7 @@
                         <gco:CharacterString>6.13.6</gco:CharacterString>
                     </gmd:edition>
                     <gmd:editionDate>
-                        <gco:Date>2017-04-20</gco:Date>
+                        <gco:Date>2017-01-19</gco:Date>
                     </gmd:editionDate>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
@@ -408,7 +414,7 @@
                     <gmd:useLimitation>
                         <gco:CharacterString>LDM License
 
-                                                              https://github.com/Unidata/LDM/blob/master/LICENSE</gco:CharacterString>
+                                                                                  https://github.com/Unidata/LDM/blob/master/LICENSE</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
                         <gco:CharacterString>None</gco:CharacterString>
@@ -427,7 +433,7 @@
                 <gmd:MD_TopicCategoryCode>climatologyMeteorologyAtmosphere</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:environmentDescription>
-                <gco:CharacterString>Java</gco:CharacterString>
+                <gco:CharacterString>C</gco:CharacterString>
             </gmd:environmentDescription>
             <gmd:extent gco:nilReason="missing"/>
         </gmd:MD_DataIdentification>
