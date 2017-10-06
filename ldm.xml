@@ -412,7 +412,7 @@
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
-                        <gco:CharacterString>LDM License
+                        <gco:CharacterString>LDM License (BSD 3-clause derivative)
 
                                                                                   https://github.com/Unidata/LDM/blob/master/LICENSE</gco:CharacterString>
                     </gmd:useLimitation>
