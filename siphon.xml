@@ -57,7 +57,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-10-06T12:19:03</gco:DateTime>
+        <gco:DateTime>2017-10-06T13:21:03</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -201,24 +201,40 @@
                             <gmd:positionName>
                                 <gco:CharacterString>Software Engineer/Programmer</gco:CharacterString>
                             </gmd:positionName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:phone>
-                                    <gmd:CI_Telephone>
-                                    <gmd:voice>
-                                    <gco:CharacterString>303-497-8679</gco:CharacterString>
-                                    </gmd:voice>
-                                    </gmd:CI_Telephone>
-                                    </gmd:phone>
-                                    <gmd:address>
-                                    <gmd:CI_Address>
-                                    <gmd:electronicMailAddress>
-                                    <gco:CharacterString>support-python@unidata.ucar.edu</gco:CharacterString>
-                                    </gmd:electronicMailAddress>
-                                    </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
+                            <gmd:role>
+                                <gmd:CI_RoleCode
+                                    codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Sean Arms</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>Unidata</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:positionName>
+                                <gco:CharacterString>Software Engineer/Programmer</gco:CharacterString>
+                            </gmd:positionName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode
+                                    codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>John Leeman</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>Unidata</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:positionName>
+                                <gco:CharacterString>Software Engineer/Programmer</gco:CharacterString>
+                            </gmd:positionName>
                             <gmd:role>
                                 <gmd:CI_RoleCode
                                     codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
