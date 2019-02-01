@@ -66,7 +66,7 @@
         <gco:CharacterString>ISO19115:2003/Cor 1 2006</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/D6N014KG</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/d6n014kg</gco:CharacterString>
     </gmd:dataSetURI>
     <gmd:referenceSystemInfo>
         <gmd:MD_ReferenceSystem>
