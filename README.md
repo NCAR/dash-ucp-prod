@@ -12,7 +12,7 @@ Files contain metadata in a standardized, machine-readable format, and conform t
 
 https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
 
-## Unidata Completeness Graph
+## Unidata/UCP Completeness Graph
 
 ![Unidata Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/Unidata/barcharts/unidata.png)
 
