@@ -185,10 +185,10 @@
                         </gmd:CI_Date>
                     </gmd:date>
                     <gmd:edition>
-                        <gco:CharacterString>0.7.0</gco:CharacterString>
+                        <gco:CharacterString>1.0.0</gco:CharacterString>
                     </gmd:edition>
                     <gmd:editionDate>
-                        <gco:Date>2018-01-04</gco:Date>
+                        <gco:Date>2020-12-23</gco:Date>
                     </gmd:editionDate>
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
