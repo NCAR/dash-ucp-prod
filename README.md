@@ -1,4 +1,4 @@
-# dash-unidata-prod
+# dash-ucp-prod
 
 ## Overview
 
@@ -12,7 +12,7 @@ Files contain metadata in a standardized, machine-readable format, and conform t
 
 https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_Part%20II%20Extentions%20for%20imagery%20and%20Gridded%20Data.pdf
 
-## Unidata/UCP Completeness Graph
+## UCP Completeness Graph
 
 ![Unidata Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/unidata.png)
 
