@@ -14,7 +14,7 @@ https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_P
 
 ## UCP Completeness Graph
 
-![Unidata Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/unidata.png)
+![UCP Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/ucp.png)
 
 ## Publisher Information
 
