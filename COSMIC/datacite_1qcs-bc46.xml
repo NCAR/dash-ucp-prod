@@ -47,7 +47,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-08-21T09:48:00.667724</gco:DateTime>
+        <gco:DateTime>2023-08-21T10:30:47.733264</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -205,6 +205,7 @@
                     <gmd:name>
                         <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
+                    <gmd:version gco:nilReason="missing"/>
                 </gmd:MD_Format>
             </gmd:resourceFormat>
             <gmd:resourceFormat>
@@ -212,6 +213,7 @@
                     <gmd:name>
                         <gco:CharacterString>NetCDF</gco:CharacterString>
                     </gmd:name>
+                    <gmd:version gco:nilReason="missing"/>
                 </gmd:MD_Format>
             </gmd:resourceFormat>
             <gmd:resourceFormat>
@@ -219,6 +221,7 @@
                     <gmd:name>
                         <gco:CharacterString>binary</gco:CharacterString>
                     </gmd:name>
+                    <gmd:version gco:nilReason="missing"/>
                 </gmd:MD_Format>
             </gmd:resourceFormat>
             <gmd:descriptiveKeywords>
