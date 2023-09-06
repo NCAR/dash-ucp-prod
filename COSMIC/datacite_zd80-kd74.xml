@@ -47,7 +47,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-09-05T11:07:03.264583</gco:DateTime>
+        <gco:DateTime>2023-09-06T10:46:50.346171</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -337,10 +337,10 @@
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
-                        <gco:CharacterString>Free access; Subject to UCAR terms and conditions described at http://www2.ucar.edu/terms-of-use</gco:CharacterString>
+                        <gco:CharacterString>Free access; Subject to UCAR terms and conditions described at http://www2.ucar.edu/terms-of-use (See also https://www.ucar.edu/terms-of-use )</gco:CharacterString>
                     </gmd:useLimitation>
-                    <gmd:otherConstraints gco:nilReason="missing">
-                        <gco:CharacterString></gco:CharacterString>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>Access Constraints: Free Access</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
